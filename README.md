@@ -1,4 +1,4 @@
-# Analise_Credito
+# Análise de crédito
 
 O seguinte projeto tem como objetivo analisar e tentar propor uma ideia para combater o crescente número de pessoas que têm cancelado o cartão de crédito em um determinado banco.
 
